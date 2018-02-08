@@ -23,7 +23,7 @@ static char	*get_real_path(char *path)
   char		*realdist;
 
   if ((realdist = realpath(path, buf)) == NULL)
-    return (NULL);
+     exit (84);
   return (my_strdup(realdist));
 }
 
