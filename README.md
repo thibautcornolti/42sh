@@ -1,4 +1,7 @@
 # 42sh
+
+**Subject [here](https://github.com/thibautcornolti/42sh/blob/master/Subject.pdf)**
+
 Projet 42sh fin de première année Epitech
 
 ![example](https://i.imgur.com/FyHqZp5.png)
