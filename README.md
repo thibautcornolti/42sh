@@ -2,22 +2,23 @@
 
 **Subject [here](https://github.com/thibautcornolti/42sh/blob/master/Subject.pdf)**
 
-Projet 42sh fin de première année Epitech
+42sh is the end-of-year project of Epitech for the first year.
 
 ![example](https://i.imgur.com/FyHqZp5.png)
 
-# But
-Réaliser un shell complet avec un parseur LL.
+# Goal
 
-# Fonctionnel
-- Historique (Up arrow, down arrow, !$, !!, !:n, !n, !-n, ...)
-- Job Control (&, jobs [-l ], fg [%n], bg [%n])
+Make a complete shell with an LL.
+
+# Features
+- History (up arrow, down arrow, !$, !!, !:n, !n, !-n, ...)
+- Job control (&, jobs [-l ], fg [%n], bg [%n])
 - Globbing ([m,a]?*.[a-o])
-- Variables locales (set, unset)
+- Local variable (set, unset)
 - Alias (alias, unalias)
-- Édition de ligne avancée
+- Advanced line edition (right arrow, left arrow, backspace, etc...)
 - ~/.42shrc
-- Auto-complétion (deux modes: Ctrl + F)
+- Auto-completion (with two modes: Ctrl + F)
 - Magic quote
 
 Keynote : http://slides.com/thibautcornolti/42sh#/
